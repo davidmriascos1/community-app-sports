@@ -2,6 +2,7 @@
 
 Expo (SDK 57) + React Native + TypeScript. Supabase, FastAPI and a Next.js dashboard come later.
 See `AGENTS.md` for Expo-specific rules (use `npx expo install`, check versioned docs).
+See `ROADMAP.md` for the product plan, hypothesis, metrics and milestone order. Read it before starting a milestone.
 
 ## Product principle
 
